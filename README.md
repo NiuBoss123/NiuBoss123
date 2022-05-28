@@ -8,4 +8,7 @@
   </tr>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+## 一些個人重點關注的倉庫
+<a href="https://github.com/NiuBoss123/www.niuboss123.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiuBoss123&repo=www.niuboss123.com&theme=buefy" />
+</a>
