@@ -7,4 +7,5 @@
 <img src="https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true" align="right" width="300"/> </td>
   </tr>
 </table>
-![My Website Git Repository](https://github-readme-stats.vercel.app/api/pin/?username=NiuBoss123&repo=github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
