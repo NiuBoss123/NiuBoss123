@@ -1,1 +1,1 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=WangDanPeng&show_icons=true">
+![NiuBoss123's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiuBoss123)
