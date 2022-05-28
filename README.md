@@ -7,3 +7,4 @@
 <img src="https://github.com/KawaiiZapic/KawaiiZapic/blob/master/\(.gif?raw=true" align="right" width="300"/> </td>
   </tr>
 </table>
+[![My Website Git Repository](https://github-readme-stats.vercel.app/api/pin/?username=NiuBoss123&repo=www.niuboss123.com)](https://github.com/NiuBoss123/www.niuboss123.com)
