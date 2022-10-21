@@ -4,4 +4,5 @@
 ## 一些個人重點關注的倉庫
 <a href="https://github.com/NiuBoss123/www.niuboss123.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiuBoss123&repo=www.niuboss123.com" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BC413&repo=ACOMOE" />
 </a>
