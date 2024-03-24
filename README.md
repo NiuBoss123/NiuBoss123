@@ -18,6 +18,6 @@
 
 ### 加入組織
 - [BLUEAKIO](https://github.com/BLUEAKIO)
-- [TeamVastsea](https://github.com/orgs/TeamVastsea)
+- [TeamVastsea](https://github.com/TeamVastsea)
 
 更多信息請前往 [個人簡介（簡體中文）](www.akio.top/about)
