@@ -1,4 +1,23 @@
-<img src="https://github-readme-stats.vercel.app/api?username=NiuBoss123&show_icons=true&icon_color=E91E63&title_color=FB7299&hide_border=true&locale=cn" />
+<div align="center">
+    <h1><a><img src="https://server.akio.top/api/v2/objects/icon/5ek52k5azeqg95y9t4.png" alt="" width="50%" height="50%" style="vertical-align: middle;"/><br>
+      Hi, I'm Misaka Akio👋</a></h1>
+</div>
 
-## 聯繫方式
-### 郵箱：niuboss123@foxmail.com
+<p align="center">
+    <a>Be a captain, a traveler, a pioneer, and your good friend.</a>
+</p>
+
+---
+
+### 關於我
+- 昵稱：御坂秋生
+- 英文名：Misaka Akio
+- 別稱：NiuBoss123、藍朝陽
+- 生日：2006 年 4 月 13 日
+- 郵箱：niuboss123@foxmail.com
+
+### 加入組織
+- [BLUEAKIO](https://github.com/BLUEAKIO)
+- [TeamVastsea](https://github.com/orgs/TeamVastsea)
+
+更多信息請前往 [個人簡介（簡體中文）](www.akio.top/about)
