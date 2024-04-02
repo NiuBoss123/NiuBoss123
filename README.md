@@ -20,4 +20,4 @@
 - [BLUEAKIO](https://github.com/BLUEAKIO)
 - [TeamVastsea](https://github.com/TeamVastsea)
 
-更多信息請前往 [個人簡介（簡體中文）](www.akio.top/about)
+更多信息請前往 [個人簡介（簡體中文）](https://www.akio.top/about)
