@@ -19,5 +19,7 @@
 ### 加入組織
 - [BLUEAKIO](https://github.com/BLUEAKIO)
 - [TeamVastsea](https://github.com/TeamVastsea)
+- [KazuyoshiCraft](https://github.com/KazuyoshiCraft)
+- [YSP-Team](https://github.com/YSP-Team)
 
 更多信息請前往 [個人簡介（簡體中文）](https://www.akio.top/about)
