@@ -20,7 +20,6 @@
 - [BLUEAKIO](https://github.com/BLUEAKIO)
 - [TeamVastsea](https://github.com/TeamVastsea)
 - [KazuyoshiCraft](https://github.com/KazuyoshiCraft)
-- [YSP-Team](https://github.com/YSP-Team)
 - [BalloonUpdate](https://github.com/BalloonUpdate)
 
 更多信息請前往 [個人簡介（簡體中文）](https://www.akio.top/about)
