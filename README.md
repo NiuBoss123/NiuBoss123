@@ -17,7 +17,8 @@
 - 郵箱：niuboss123@foxmail.com
 
 ### 加入組織
-- [BLUEAKIO](https://github.com/BLUEAKIO)
+- [BLUEAKIO](https://github.com/BLUEAKIO)（自有組織）
+- [MisakaAkio-Dev](https://github.com/MisakaAkio-Dev)（自有組織）
 - [TeamVastsea](https://github.com/TeamVastsea)
 - [BalloonUpdate](https://github.com/BalloonUpdate)
 
