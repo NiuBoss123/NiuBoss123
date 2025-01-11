@@ -21,5 +21,6 @@
 - [MisakaAkio-Dev](https://github.com/MisakaAkio-Dev)（自有組織）
 - [TeamVastsea](https://github.com/TeamVastsea)
 - [BalloonUpdate](https://github.com/BalloonUpdate)
+- [KivotosRailway](https://github.com/KivotosRailway)
 
 更多信息請前往 [個人簡介（簡體中文）](https://www.akio.top/about)
