@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><a><img src="https://act-webstatic.blueakio.com/2025/08/21/68a5f9dfed40d.jpg" alt="" width="50%" height="50%" style="vertical-align: middle;"/><br>
+    <h1><a><img src="https://act-webstatic.blueakio.com/2025/09/07/68bd8a6c42dca.png" alt="" width="50%" height="50%" style="vertical-align: middle;"/><br>
       Hi, I'm Misaka Akio👋</a></h1>
 </div>
 
