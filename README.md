@@ -19,8 +19,8 @@
 ### 加入組織
 - [BLUEAKIO](https://github.com/BLUEAKIO)（自有組織）
 - [MisakaAkio-Dev](https://github.com/MisakaAkio-Dev)（自有組織）
-- [TeamVastsea](https://github.com/TeamVastsea)
-- [BalloonUpdate](https://github.com/BalloonUpdate)
 - [KivotosRailway](https://github.com/KivotosRailway)
+- [BalloonUpdate](https://github.com/BalloonUpdate)
+
 
 更多信息請前往 [個人簡介（簡體中文）](https://www.akio.top/about)
