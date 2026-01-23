@@ -21,7 +21,5 @@
 - [MisakaAkio-Dev](https://github.com/MisakaAkio-Dev)（自有組織）
 - [KivotosRailway](https://github.com/KivotosRailway)
 - [BalloonUpdate](https://github.com/BalloonUpdate)
-- [Server-of-Souton](https://github.com/Server-of-Souton)
-
 
 更多信息請前往 [個人簡介（簡體中文）](https://www.akio.top/about)
